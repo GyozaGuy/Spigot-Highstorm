@@ -11,6 +11,6 @@ public class SpigotHighstorm extends JavaPlugin {
 	
 	@Override
 	public void onDisable() {
-		// TODO
+		Bukkit.getServer().broadcastMessage("Highstorms inactive.");
 	}
 }
