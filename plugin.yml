@@ -1,0 +1,9 @@
+name: Spigot-Highstorm
+main: com.gyozaguy.highstorm.highstorm
+version: 1.0
+commands:
+ highstorm:
+   description: Summons a Highstorm.
+   usage: /highstorm
+   permission: highstorm.highstorm
+   permission-message: Oh nosies! You don't have permission to do that!
