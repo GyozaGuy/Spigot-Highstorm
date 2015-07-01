@@ -1,5 +1,5 @@
 name: Spigot-Highstorm
-main: com.gyozaguy.highstorm.Highstorm
+main: com.gyozaguy.highstorm.SpigotHighstorm
 version: 1.0
 commands:
  highstorm:
